@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Desolated Delta</string>
+    <string name="dev_releases">Development Releases</string>
+    <string name="checking">Checking for Updates</string>
+    <string name="check_prompt">Check for Updates</string>
+    <string name="update_found">Update Found</string>
+    <string name="no_update_found">No Update Found</string>
+</resources>
